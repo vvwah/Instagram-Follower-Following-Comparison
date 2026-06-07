@@ -1,0 +1,3 @@
+ENTER = input("Enter your list of names >> ")
+a=ENTER.split()
+print(a)
