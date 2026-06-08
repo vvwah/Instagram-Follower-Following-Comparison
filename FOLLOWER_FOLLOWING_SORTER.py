@@ -1,6 +1,6 @@
 #CONDENSED
 #STEP ONE: Once you have ensured that there is a space between all names in your follower or following list 
-# (by first pasting the list into Excel or Google Sheets, and inserting spaces in one column, then joining the 
+# (by first pasting the lists into Excel or Google Sheets, and inserting spaces in one column, then joining the 
 # space column and the name column together - in Google sheets you can do so by =JOIN((" ", B1:C1)) -), run this code
 # and copy and paste the new list which has the spaces seperating the names, whereby this function will then create a list which 
 # can then be copy and pasted into the next step
